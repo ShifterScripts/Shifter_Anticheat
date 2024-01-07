@@ -6,18 +6,18 @@ Only for ESX !!!
 You can buy on tebex https://shifter.tebex.io/
 
 
-#Set-up
+# Set-up
 - For anticheat bypass you need to add in server.cfg this "add_ace group.[Your Admin Group] shifterbypass allow"
 - And add please this line on server.cfg "add_ace shifterbypass allow"
 
-#Logs
+# Logs
 - Discord log with webhook
 
-#Configuration
+# Configuration
 - Easy for set-up
 - If you set-up good then anticheat will work nice
 
-#Detection
+# Detection
 - Anti Explosion Damage
 - Anti God Mode
 - Anti Invisible
