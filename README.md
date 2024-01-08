@@ -3,13 +3,12 @@ Hi i created my own anticheat and this anticheat detect eulens, redengines, skri
 
 Only for ESX !!!
 
-You can buy on [Tebex](https://shifter.tebex.io/package/6071236)
+You can buy on tebex https://shifter.tebex.io/
 
 
 # Set-up
 - For anticheat bypass you need to add in server.cfg this "add_ace group.[Your Admin Group] shifterbypass allow"
 - And add please this line on server.cfg "add_ace shifterbypass allow"
-- Rename anticheat on house or car or anything that for more protection and for anticheat start
 
 # Logs
 - Discord log with webhook
@@ -17,6 +16,12 @@ You can buy on [Tebex](https://shifter.tebex.io/package/6071236)
 # Configuration
 - Easy for set-up
 - If you set-up good then anticheat will work nice
+
+# Commands
+- /anticheat-unban <banid>
+- /anticheat-ban <player_id>
+- /allentitywipe
+- /entitywipe
 
 # Detection
 - Anti Explosion Damage
