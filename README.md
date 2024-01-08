@@ -19,7 +19,7 @@ You can buy on tebex https://shifter.tebex.io/
 
 # Commands
 - /anticheat-unban <banid>
-- /anticheat-ban <player_id>
+- /anticheat-ban <player_id> <reason>
 - /allentitywipe
 - /entitywipe
 
