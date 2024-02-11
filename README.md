@@ -1,5 +1,5 @@
 # Shifter_Anticheat
-Hi i created my own anticheat and this anticheat detect eulens, redengines, skripts, susanos
+Hi i created my own anticheat and this anticheat detect eulens, anti objects and much more
 
 Only for ESX !!!
 
