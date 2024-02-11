@@ -18,8 +18,8 @@ You can buy on tebex https://shifter.tebex.io/
 - If you set-up good then anticheat will work nice
 
 # Commands
-- /anticheat-unban <banid>
-- /anticheat-ban <player_id> <reason>
+- /anticheat-unban [banid]
+- /anticheat-ban [player_id] [reason]
 - /allentitywipe
 - /entitywipe
 
